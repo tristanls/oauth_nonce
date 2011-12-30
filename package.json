@@ -1,0 +1,11 @@
+{
+  "name" : "oauth_nonce",
+  "description" : "Because it was annoying enough to find",
+  "version" : "1.0.0",
+  "author" : "Tristan Slominski <tristan.slominski@gmail.com>",
+  "main" : "./oauth_nonce.js",
+  "engines" : {
+    "node" : "0.6.x"
+  },
+  "keywords" : [ "oauth", "oauth_nonce" ]
+}
